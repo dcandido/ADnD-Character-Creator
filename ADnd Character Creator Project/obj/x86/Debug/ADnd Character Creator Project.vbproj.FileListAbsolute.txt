@@ -1,0 +1,9 @@
+C:\Users\David\Documents\vb_projects\CharacterMaker Solution\ADnD Character Creator Solution\ADnd Character Creator Project\bin\Debug\ADnd Character Creator Project.exe
+C:\Users\David\Documents\vb_projects\CharacterMaker Solution\ADnD Character Creator Solution\ADnd Character Creator Project\bin\Debug\ADnd Character Creator Project.pdb
+C:\Users\David\Documents\vb_projects\CharacterMaker Solution\ADnD Character Creator Solution\ADnd Character Creator Project\bin\Debug\ADnd Character Creator Project.xml
+C:\Users\David\Documents\vb_projects\CharacterMaker Solution\ADnD Character Creator Solution\ADnd Character Creator Project\obj\x86\Debug\ADnd_Character_Creator_Project.frmMain.resources
+C:\Users\David\Documents\vb_projects\CharacterMaker Solution\ADnD Character Creator Solution\ADnd Character Creator Project\obj\x86\Debug\ADnd_Character_Creator_Project.Resources.resources
+C:\Users\David\Documents\vb_projects\CharacterMaker Solution\ADnD Character Creator Solution\ADnd Character Creator Project\obj\x86\Debug\ADnd Character Creator Project.vbproj.GenerateResource.Cache
+C:\Users\David\Documents\vb_projects\CharacterMaker Solution\ADnD Character Creator Solution\ADnd Character Creator Project\obj\x86\Debug\ADnd Character Creator Project.exe
+C:\Users\David\Documents\vb_projects\CharacterMaker Solution\ADnD Character Creator Solution\ADnd Character Creator Project\obj\x86\Debug\ADnd Character Creator Project.xml
+C:\Users\David\Documents\vb_projects\CharacterMaker Solution\ADnD Character Creator Solution\ADnd Character Creator Project\obj\x86\Debug\ADnd Character Creator Project.pdb
